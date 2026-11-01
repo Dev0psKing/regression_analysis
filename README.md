@@ -14,6 +14,7 @@ This project analyzes the relationship between different marketing channels (TV,
 3. **Regression:** Built an Ordinary Least Squares (OLS) model using `statsmodels`.
 4. **Diagnostics:** Verified linearity, normality of residuals (Q-Q plots), and homoscedasticity.
 
+
 ## Setup Instructions
 To run this analysis locally, install the following dependencies:
 ```bash
